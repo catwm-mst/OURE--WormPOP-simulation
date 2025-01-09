@@ -1,0 +1,6 @@
+*.tsv
+*.png
+*.db
+simulation
+Simulation/parameters.json
+plots/*
